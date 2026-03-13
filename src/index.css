@@ -271,3 +271,13 @@ html,
 .react-flow__edge-interaction {
   pointer-events: none !important;
 }
+
+/* Ajustar el MiniMap para celulares */
+@media (max-width: 768px) {
+  .react-flow__minimap {
+    width: 100px !important;
+    height: 70px !important;
+    bottom: 10px !important;
+    right: 10px !important;
+  }
+}
