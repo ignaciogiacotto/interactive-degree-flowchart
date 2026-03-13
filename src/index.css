@@ -258,3 +258,16 @@ html,
   background: none !important;
   padding: 0 !important;
 }
+
+/* Permitir arrastrar el mapa aunque el clic inicie sobre una flecha */
+.react-flow__edge {
+  pointer-events: none !important;
+}
+
+.react-flow__edge-path {
+  pointer-events: none !important;
+}
+
+.react-flow__edge-interaction {
+  pointer-events: none !important;
+}

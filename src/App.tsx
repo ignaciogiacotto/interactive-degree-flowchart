@@ -165,6 +165,11 @@ function App() {
         edges={edges}
         nodeTypes={nodeTypes}
         fitView
+        edgesFocusable={false}
+        edgesUpdatable={false}
+        elementsSelectable={true}
+        panOnScroll={true}
+        selectionOnDrag={false}
       >
         <Background />
         <Controls />
