@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Academic Roadmap & Progress Tracker
 
 Un **Interactive Degree Flowchart** diseñado para visualizar y organizar el plan de estudios de la carrera de Ciencias de la Educación. Permite a los estudiantes rastrear correlatividades, marcar materias aprobadas o regulares y visualizar su "hoja de ruta" académica de forma dinámica.
@@ -13,3 +14,6 @@ Un **Interactive Degree Flowchart** diseñado para visualizar y organizar el pla
 ---
 
 Este proyecto utiliza **React Flow** para la representación gráfica de las materias y **Urbanist** como tipografía principal para una estética moderna y legible.
+=======
+# interactive-degree-flowchart
+>>>>>>> 9e15f4708ff5d5451007ea01c98dd4d3df4203c2
